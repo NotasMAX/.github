@@ -28,8 +28,11 @@ Este sistema está sendo desenvolvido em parceria com:
 
 ## 💻 Tecnologias Utilizadas
 
-- **Node.js** (backend)
-- **MySQL** (banco de dados)
+- MongoDB — Banco de dados não relacional (NoSQL);
+- Node.js;
+- JavaScript;
+- HTML / CSS / React / Tailwind ;
+- Mongoose / Express / Cors
 
 ---
 
